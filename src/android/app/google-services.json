@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "499783558551",
+    "project_id": "test-3145d",
+    "storage_bucket": "test-3145d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499783558551:android:53ec5b00bb2cc63a0e10d2",
+        "android_client_info": {
+          "package_name": "com.thrivefitnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499783558551-ccg8chctol4dml0hbffskbsos3isoi4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thrivefitnessapp",
+            "certificate_hash": "579476350a2e124dc36bf593919a91f2350d7927"
+          }
+        },
+        {
+          "client_id": "499783558551-5lf386a4l7uuu114l2o1orvj0dvj1e3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7f8NaH6xgLXZzG0tuzzqcXy5IbSYSnhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499783558551-5lf386a4l7uuu114l2o1orvj0dvj1e3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
